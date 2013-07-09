@@ -1,5 +1,5 @@
 {
-    "name": "raftalks/form",
+    "name": "laravella/form",
     "description": "Easy way to make Forms with PHP. Specially useful with Laravel 4.",
     "keywords": ["form","laravel","illuminate"],
     "license": "BSD",
